@@ -26,4 +26,4 @@ Edit src/game_config.h
 
 ### Main developers
 ## Main developer
-- (AndrewKitaev)[https://github.com/andrewkitaev]
+- [AndrewKitaev](https://github.com/andrewkitaev)
