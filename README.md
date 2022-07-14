@@ -1,5 +1,5 @@
 # GenTrained - OpenGL Game
-## Created by AndrewKitaev
+> Created by AndrewKitaev
 > in beta
 
 ### How to build?
@@ -24,6 +24,5 @@ Edit src/game_config.h
 
 ```
 
-### Main developers
-## Main developer
+### Main developer
 - [AndrewKitaev](https://github.com/andrewkitaev)
